@@ -4,7 +4,7 @@ package leetcode;
 
 import java.util.HashMap;
 
-public class task2 {
+public class romanToInt {
     public int romanToInt(String s) {
         HashMap<Character,Integer> map = new HashMap<>();
         map.put('I',1);

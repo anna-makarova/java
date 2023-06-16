@@ -2,7 +2,7 @@ package leetcode;
 
 import java.util.Arrays;
 
-public class task9 {
+public class canMakeArithmeticProgression {
     public boolean canMakeArithmeticProgression(int[] arr) {
         Arrays.sort(arr);
         int diff = arr[1] - arr[0];

@@ -1,6 +1,6 @@
 package leetcode;
 
-public class task8 {
+public class climbStairs {
     public int climbStairs(int n) {
         if(n<=2)
             return n;

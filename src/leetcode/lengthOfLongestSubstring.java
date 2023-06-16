@@ -5,7 +5,7 @@ package leetcode;
 import java.util.HashMap;
 import java.util.Map;
 
-public class task3 {
+public class lengthOfLongestSubstring {
     public int lengthOfLongestSubstring(String s) {
 
         if( s.length() ==0 ) return 0;

@@ -1,6 +1,6 @@
 package leetcode;
 
-public class task16 {
+public class moveZeroes {
     public void moveZeroes(int[] nums) {
         int i = 0;
         for (int num:nums){

@@ -1,6 +1,6 @@
 package leetcode;
 
-public class task17 {
+public class lengthOfLastWord {
     public int lengthOfLastWord(String s) {
         if(s==null || s.length() == 0)
             return 0;

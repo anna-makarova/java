@@ -1,6 +1,6 @@
 package leetcode;
 
-public class task10 {
+public class strStr {
     public int strStr(String haystack, String needle) {
         int haylength=haystack.length();
         int needlelength=needle.length();

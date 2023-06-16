@@ -1,6 +1,6 @@
 package leetcode;
 
-public class task14 {
+public class canPlaceFlowers {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
         int count = 0;
         for (int i = 0; i < flowerbed.length; i++) {

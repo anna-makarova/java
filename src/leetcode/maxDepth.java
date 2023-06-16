@@ -1,6 +1,6 @@
 package leetcode;
 
-public class task18 {
+public class maxDepth {
     public class TreeNode {
       int val;
       TreeNode left;

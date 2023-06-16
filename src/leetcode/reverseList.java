@@ -1,6 +1,6 @@
 package leetcode;
 
-public class task15 {
+public class reverseList {
      public class ListNode {
       int val;
      ListNode next;

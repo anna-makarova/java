@@ -1,6 +1,6 @@
 package leetcode;
 
-public class task12 {
+public class mySqrt {
     public int mySqrt(int x) {
         if (x == 0)
             return x;

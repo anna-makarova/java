@@ -1,6 +1,6 @@
 package leetcode;
 
-public class task13 {
+public class search {
     public int search(int[] nums, int target) {
         // Set the left and right boundaries
         int left = 0, right = nums.length;

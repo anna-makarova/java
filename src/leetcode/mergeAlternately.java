@@ -1,6 +1,6 @@
 package leetcode;
 
-public class task20 {
+public class mergeAlternately {
     public String mergeAlternately(String word1, String word2) {
         StringBuilder sb=new StringBuilder();
         int i=0;

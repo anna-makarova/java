@@ -1,6 +1,6 @@
 package leetcode;
 
-public class task11 {
+public class majorityElement {
     public int majorityElement(int[] arr) {
         int count=1;
         int ele=arr[0];

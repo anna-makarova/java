@@ -2,7 +2,7 @@ package leetcode;
 
 import java.util.Arrays;
 
-public class task19 {
+public class singleNumber {
     public int singleNumber(int[] nums) {
         Arrays.sort(nums);
         if(nums.length==1){

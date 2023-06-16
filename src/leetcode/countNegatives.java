@@ -1,6 +1,6 @@
 package leetcode;
 
-public class task7 {
+public class countNegatives {
     public int countNegatives(int[][] grid) {
         int i = 0;
         int j = grid[0].length - 1;
